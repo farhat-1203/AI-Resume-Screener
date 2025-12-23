@@ -1,0 +1,3 @@
+flitz
+ollama
+pymupdf
